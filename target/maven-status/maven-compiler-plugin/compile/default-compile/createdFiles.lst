@@ -1,0 +1,12 @@
+com/ch/example/BenefitMatch.class
+com/ch/example/ClaimLine.class
+com/ch/example/ProviderDetails.class
+com/example/sample/Message.class
+com/ch/example/DateDetails.class
+com/ch/example/RulesOutPut.class
+com/ch/example/ProcedureCode.class
+com/ch/example/Claim.class
+com/ch/example/Eligibility.class
+com/ch/example/AmountDetails.class
+com/ch/example/ClaimLineAmountDetails.class
+com/ch/example/ServiceProvider.class
